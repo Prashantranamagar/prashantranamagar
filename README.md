@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prashant Rana Magar</h1>
 <h3 align="center">A passionate Backend developer from Nepal</h3>
 
-- 🔭 I’m currently working on [Dpaisa](https://blog.dpaisa.com)
+- 🔭 I’m currently working on [Dpaisa](https://dpaisa.com)
 
 - 🌱 I’m currently learning **Backend Developement.**
 
